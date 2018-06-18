@@ -3,6 +3,11 @@ Animation of the motion a double-pendulum using Julia.
 
 The code saves the animation as a gif file. It can also playback the video in Jupyter notebook environment. The animation is recorded at equal time steps to preserve relative velocity of the pendulums in the video.
 
+## References
+1. http://sophia.dtp.fmph.uniba.sk/~kovacik/doublePendulum.pdf
+2. http://www.phys.lsu.edu/faculty/gonzalez/Teaching/Phys7221/DoublePendulum.pdf
+
+
 ## Package requirements
  1. Plots
  2. Differential Equations
