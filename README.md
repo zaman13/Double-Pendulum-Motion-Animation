@@ -20,7 +20,7 @@ The mass and length of the pendulums, gravitational acceleration constant, the i
 
 
 ## Sample output
-Double pendulum system with m<sub>1</sub> = m<sub>2</sub> = 1kg, L<sub>1</sub> = L<sub>2</sub> = 1m. Initial conditions θ<sub>1</sub> = 5π/8, θ<sub>2</sub> = 5π/9, ω<sub>1</sub> = 0, ω<sub>2</sub> = 0.
+Double pendulum system with m<sub>1</sub> = m<sub>2</sub> = 1kg, L<sub>1</sub> = L<sub>2</sub> = 1m. Initial conditions θ<sub>1</sub> = 5π/8, θ<sub>2</sub> = 5π/9, ω<sub>1</sub> = 0, ω<sub>2</sub> = 0. Here, θ<sub>1</sub> and θ<sub>2</sub> are the initial angular positions, and, ω<sub>1</sub> and ω<sub>2</sub> are initial angular velocities in SI units.
 
 
 <img src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output.gif" alt="alt text" width="300">
