@@ -7,10 +7,10 @@
 </p>
 Animation of the chaotic motion a double-pendulum using Julia and Python.
 
-# Julia version
+# Julia version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Julia%20Code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
 The code can save the animation as a gif file. It can also playback the video in Jupyter notebook environment. The animation is recorded at equal time steps to preserve relative velocity of the pendulums in the video.
 
-# Python version
+# Python version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Python%20Code"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
 The animation is done using FuncAnimation() of matplotlib. The code can save the animation as a mp4 file. The python script was tested in spyder environment. Plotting in external window should be enabled to view the animation.
 
 
