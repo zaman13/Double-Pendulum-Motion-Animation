@@ -7,16 +7,12 @@
 </p>
 Animation of the chaotic motion a double-pendulum using Julia and Python.
 
-# Julia version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Julia%20Code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
+## Julia version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Julia%20Code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
 The code can save the animation as a gif file. It can also playback the video in Jupyter notebook environment. The animation is recorded at equal time steps to preserve relative velocity of the pendulums in the video.
 
-# Python version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Python%20Code"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+## Python version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Python%20Code"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
 The animation is done using FuncAnimation() of matplotlib. The code can save the animation as a mp4 file. The python script was tested in spyder environment. Plotting in external window should be enabled to view the animation.
 
-
-## References
-1. http://sophia.dtp.fmph.uniba.sk/~kovacik/doublePendulum.pdf
-2. http://www.phys.lsu.edu/faculty/gonzalez/Teaching/Phys7221/DoublePendulum.pdf
 
 
 ## Package requirements for Julia version
@@ -41,3 +37,10 @@ Double pendulum system with m<sub>1</sub> = m<sub>2</sub> = 1kg, L<sub>1</sub> =
 
 
 <img src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output.gif" alt="alt text" width="300">
+
+
+
+## References
+1. http://sophia.dtp.fmph.uniba.sk/~kovacik/doublePendulum.pdf
+2. http://www.phys.lsu.edu/faculty/gonzalez/Teaching/Phys7221/DoublePendulum.pdf
+
