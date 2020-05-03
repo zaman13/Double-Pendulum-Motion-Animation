@@ -1,5 +1,11 @@
 # Double-Pendulum-Motion-Animation
-Animation of the motion a double-pendulum using Julia and Python.
+<p float="left">
+<a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Julia%20Code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Python%20Code"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
+<a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation"> <img src="https://img.shields.io/badge/version-1.1-red" alt="alt text"> </a>
+</p>
+Animation of the chaotic motion a double-pendulum using Julia and Python.
 
 # Julia version
 The code can save the animation as a gif file. It can also playback the video in Jupyter notebook environment. The animation is recorded at equal time steps to preserve relative velocity of the pendulums in the video.
