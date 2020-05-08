@@ -34,8 +34,8 @@ u0 = [-np.pi/2.2, 0, np.pi/1.8, 0]    # initial conditions.
 # u[2] = angle of the second pendulum
 # u[3] = angular velocity of the second pendulum
 
-tfinal = 50.0       # Final time. Simulation time = 0 to tfinal.
-Nt = 1501
+tfinal = 25.0       # Final time. Simulation time = 0 to tfinal.
+Nt = 751
 t = np.linspace(0, tfinal, Nt)
 
 # Differential equations describing the system
@@ -148,7 +148,9 @@ anim = animation.FuncAnimation(fig, animate, init_func=init,
                                frames=Nt, interval=1000*(t[2]-t[1])*0.8, blit=True)
 
 
+# Comment out the following lines if you do not want to save the animation to file
 
 #anim.save('double_pendulum_animation.mp4', fps=30, extra_args=['-vcodec', 'libx264'])
+anim.save('double_pendulum_animation.gif', fps=1.0/(t[2]-t[1]), writer = 'imagemagick')
 
 plt.show()
