@@ -1,11 +1,16 @@
 # Double-Pendulum-Motion-Animation
+
 <p float="left">
 <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Julia%20Code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
 <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Python%20Code"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
 <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
 <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation"> <img src="https://img.shields.io/badge/version-1.2-red" alt="alt text"> </a>
 </p>
-Animation of the chaotic motion a double-pendulum using Julia and Python.
+
+
+<img align = "right" src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output_2.gif" alt="alt text" height="180">
+
+Animation of the chaotic motion a double-pendulum using Julia and Python. The julia version is implemented in a Jupyter notebook environment whereas the python version is a conventional script. Double pendulums of arbitrary lengths, masses, initial positions, and the initial velocities can be simulated using this code. Both versions of the code allow the animation to be saved in either mp4 or gif format. 
 
 ## Julia version <a href = "https://github.com/zaman13/Double-Pendulum-Motion-Animation/tree/master/Julia%20Code"> <img src="https://img.shields.io/badge/Language-Julia-blue" alt="alt text"> </a>
 The code can save the animation as a gif file. It can also playback the video in Jupyter notebook environment. The animation is recorded at equal time steps to preserve relative velocity of the pendulums in the video.
