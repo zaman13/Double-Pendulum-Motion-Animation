@@ -45,8 +45,8 @@ Double pendulum system animation. The left animation is from the julia code with
 Here, θ<sub>1</sub> and θ<sub>2</sub> are the initial angular positions, and, ω<sub>1</sub> and ω<sub>2</sub> are initial angular velocities in SI units.
 
 <p>
-<img src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output.gif" alt="alt text" height="270">
-<img src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output_2.gif" alt="alt text" height="300">
+<img src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output.gif" alt="alt text" height="250">
+<img src="https://github.com/zaman13/Double-Pendulum-Motion-Animation/blob/master/sample_output_2.gif" alt="alt text" height="290">
 </p>
 
 
